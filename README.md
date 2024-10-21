@@ -7,6 +7,6 @@
 </head>
 <body style="text-align: center; background-color: #000;">
     <h1 style="color: white;">Loading, please wait...</h1>
-    <img src="https://raw.githubusercontent.com/DeusOfSanguis/Garris/main/DALL-E_2024-10-22_03.13.44.png" alt="Loading Image">
+    <img src="DALL·E 2024-10-22 03.13.44 - A dark and terrifying scene in an abandoned asylum for a lobotomy-themed server. The walls are cracked and decayed, with eerie shadows cast across the.png" alt="Loading Image">
 </body>
 </html>
