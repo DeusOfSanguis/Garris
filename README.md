@@ -13,7 +13,6 @@
             justify-content: center;
             align-items: center;
             background-color: #000;
-            overflow: hidden;
         }
         img {
             position: absolute;
