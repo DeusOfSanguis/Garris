@@ -13,6 +13,7 @@
             justify-content: center;
             align-items: center;
             background-color: #000;
+            overflow: hidden;
         }
         img {
             position: absolute;
@@ -23,15 +24,9 @@
             object-fit: cover;
             z-index: -1;
         }
-        h1 {
-            color: white;
-            font-size: 3em;
-            z-index: 1;
-        }
     </style>
 </head>
 <body>
     <img src="https://raw.githubusercontent.com/DeusOfSanguis/Garris/main/lobotomia.png" alt="Loading Image">
-    <h1>Loading, please wait...</h1>
 </body>
 </html>
