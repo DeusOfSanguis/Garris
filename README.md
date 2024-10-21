@@ -32,6 +32,6 @@
 </head>
 <body>
     <h1>Loading, please wait...</h1>
-    <img src="https://raw.githubusercontent.com/DeusOfSanguis/Garris/main/DALL-E_2024-10-22_03.13.44.png" alt="Loading Image">
+    <img src="https://raw.githubusercontent.com/DeusOfSanguis/Garris/main/lobotomia.png" alt="Loading Image">
 </body>
 </html>
